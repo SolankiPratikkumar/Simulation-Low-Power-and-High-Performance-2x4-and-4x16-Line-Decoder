@@ -280,4 +280,17 @@ comparison to traditional CMOS implementations.
 ![72](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/f86504b6-3f51-4d97-be8e-71e69641feaf)
 ![73](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/aad603b1-dcbd-44db-a434-e6f514849f81)
 
+# Word of Thanks
 
+I sincerely Thanks Prof.Madhav Rao for Teaching and Helping me to complete this Project smoothly
+
+# Reference
+
+* https://ieeeprojectsmadurai.com/IEEE%202019%20VLSI%20BASEPAPERS/Design%20of%20Low%20Power,%20High%20Performance%202-4.pdf
+* CMOS VLSI Design: A Circuits and Systems Perspective by Weste/Harris (Author)
+
+# Acknowledgement of Group
+
+* Nitesh Sharma, M.Tech IIITB Colleague
+* Akhil Ganesh Asati, M.Tech IIITB Colleague
+* Vaibhav Tiwari, M.Tech IIITB Colleague
