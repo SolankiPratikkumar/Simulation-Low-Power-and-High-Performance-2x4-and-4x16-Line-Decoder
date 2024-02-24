@@ -117,3 +117,51 @@ where complementary A serves as the propagate signal, D0 and I3 can be efficient
 * To address this challenge, a mixed-topology approach is introduced, alternating between PTL and CMOS logic to potentially achieve optimal results.
 
 ![8](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/c1e5a87b-1270-4bcd-9408-a65cc462e284)
+
+# SIMULATIONS
+
+* In this phase, we conduct rigorous BSIM4-based SPICE simulations at the schematic level to the newly proposed mixed-logic decoders with conventional CMOS counterparts. 
+Employing a 45 nm PTM LP predictive technology model for low-power applications ensures a realistic representation, incorporating high-k/metal gate and stress effects.
+* To maintain fairness in the evaluation, all decoders utilize unit-size transistors with consistent dimensions (Ln = Lp = 45 nm, Wn = Wp = 120 nm).
+* The analysis covers aspects like transistor count, power dissipation, delay characteristics, and signal integrity, providing a nuanced understanding of the proposed designs in 
+comparison to traditional CMOS implementations.
+
+##  Simulation Setup
+
+* To comprehensively evaluate the performance of the proposed mixed-logic decoders against traditional CMOS counterparts, a series of rigorous simulations are conducted.
+* The simulations cover a range of frequencies (0.5, 1.0, 2.0 GHz) and voltages (0.8, 1.0, 1.2 V), totaling nine scenarios. Each simulation is iterated five times, introducing variations in temperature (-50, -25, 0, 25, and 50 ◦C), with the average power/delay calculated and reported for each case.
+* Balanced inverters (Ln = Lp = 32 nm, Wn = 120 nm, Wp = 240 nm) buffer all inputs, and a standardized output loading is applied with a capacitance of 0.2 fF, as illustrated in Fig. 7. The inputs are subjected to proper bit sequences, ensuring coverage of all feasible transitions a decoder can execute.
+* For instance, a 2–4 decoder with 2 inputs can generate 4 different binary combinations (22 = 4), resulting in 16 possible transitions.
+
+#  Schematics  
+
+## 2x4 CMOS DECODER
+
+![9](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/6fc733d9-34b2-4eb9-b39e-487e5b35f42a)
+
+## 2x4 CMOS INVERTER DECODER
+
+![10](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/6ae7a5f0-d58a-4188-8b3d-c4102edafcad)
+
+## 4x16 CMOS DECODER:
+
+![11](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/c488e496-3784-43ff-bc5c-4092176d57ef)
+![12](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/d7e802cf-0e2f-4ba7-8feb-ba566d81804b)
+
+## 4x16 CMOS INVERTER DECODER:
+
+![13](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/da2236a6-69eb-4ce5-b40e-989043a07642)
+![14](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/ad98ae97-7323-4fa9-9a24-7b4b60ed09f5)
+
+## 4X16 LPI DECODER:
+
+![15](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/0559f722-4938-4777-a97f-851672e6c514)
+![16](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/1b543fbe-6c24-4ce0-b7d6-4375e0547baa)
+
+## 2X4 HP DECODER:
+
+![17](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/444a6e53-1348-4a42-9876-b178d47e6376)
+
+## 2X4 HPI DECODER:
+
+
