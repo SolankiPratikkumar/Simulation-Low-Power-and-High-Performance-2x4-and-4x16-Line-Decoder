@@ -164,4 +164,85 @@ comparison to traditional CMOS implementations.
 
 ## 2X4 HPI DECODER:
 
+![18](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/0f84ed19-ff1e-4679-8fd9-ee2cca414a2e)
 
+## 4x16 HP DECODER:
+
+![19](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/d8842035-ad8f-4166-968d-c0f7e7a3f601)
+![20](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/4dd96ca7-f88d-4b31-a1a5-fb06b71a190f)
+
+# Output Waveforms:
+
+## 2x4 CMOS DECODER:
+
+![21](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/ca0fdfd3-4fc9-44f1-adf5-2b22bfd90dab)
+
+## 2x4 CMOS INVERTED DECODER:
+
+![22](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/a0d5a622-36e6-4b03-b95e-f325246009f2)
+
+## 2x4 LOW POWER DECODER:
+
+![23](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/cbeb6a9a-0920-45fd-bc0b-0d494d7869eb)
+
+## 2X4 LOW POWER INVERTED DECODER:
+
+![24](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/051e81b6-f6bd-41b5-99b8-9afe09c91c82)
+
+## 2X4 HIGH PERFORMANCE DECODER:
+
+![25](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/cd8c0f50-4052-4c88-adb5-fee0c58abf4e)
+
+## 2X4 HIGH PERFORMANCE INVERTED DECODER:
+
+![26](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/f5fce8ba-df24-4316-b26b-d93e66ae1264)
+
+## 4x16 CMOS DECODER:
+
+![27](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/932228dc-c3ea-428e-82cf-68677c1f9dbd)
+![28](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/b0c91870-697e-461c-8ad7-9e1e66254a53)
+![29](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/28e102a3-3eab-4750-86f7-b7a7de61817a)
+![30](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/9955ac14-dc6a-450a-99e7-4abc59f51203)
+
+## 4x16 CMOS INVERTER DECODER:
+
+![31](https://github.com/SolankiPratikkumar/Simulation-Low-Power-andxHigh-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/e70b8739-d740-4d02-9f50-8d20a8305a9d)
+![32](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/4b960b44-6592-4121-9a70-1c33a9bc128f)
+![33](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/d509d6d7-20ce-4652-9bb5-152b9521e5a9)
+![34](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/38e4fd91-1148-4713-9de7-d755901ab635)
+
+## 4x16 LOW POWER DECODER:
+
+![35](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/434601cd-5aca-4715-9f2b-a131cff3890b)
+![36](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/3c5ab827-26e9-4f69-8354-47ee9b738847)
+![37](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/85afdd05-26f4-46a6-a8bb-bc58610ce0ab)
+![38](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/15a2a4c5-78d5-4895-a730-82eed3f6a32a)
+![39](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/0b8eb00f-76c5-4c4a-9776-d880825e77ef)
+
+## 4x16 LOW POWER CALCULATION DECODER:
+
+![40](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/bdc9fd82-4845-4ca0-952b-33478c534643)
+![42](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/342a2c11-e6d0-4bd2-b983-5997a2dda0da)
+![43](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/11edf4e6-8b21-4ce0-ad6a-3bd50cc9eb1d)
+![44](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/543fc706-6c3a-4f91-837d-cf529b2d90b8)
+![45](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/99273f6d-bde6-40fa-8d7c-ea03a96413fc)
+
+## 4x16 HIGH PERFORMANCE DECODER:
+
+![46](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/2138d0b0-01fb-408f-a757-638ce2d490ef)
+![47](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/0435aa18-5035-4b97-b032-7becaf0a4ac8)
+![48](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/2face457-0c52-4fbf-ad87-bf80032cac23)
+![49](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/796fc7e3-5d7c-4318-abcb-60c4363dd6bf)
+![50](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/0e6d8df0-bb76-4d7f-8f48-ea6280a9ef32)
+
+# 4x16 HIGH PERFORMANCE INVERSE DECODER:
+
+![51](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/238731e1-94ba-42f8-bf99-8b98c2b7ccab)
+![52](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/83f1447a-d580-4dc4-80d0-c3ec7b88a49e)
+![53](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/215a9a59-2aec-478e-ac5b-176698004d2a)
+![54](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/2f0136d1-42b5-4244-a78e-d785760f0fac)
+![55](https://github.com/SolankiPratikkumar/Simulation-Low-Power-and-High-Performance-2x4-and-4x16-Line-Decoder/assets/140999250/2c076354-5721-43de-8f28-8a61852b5d70)
+
+## Observation Table:
+
+**Propagation Delay**
