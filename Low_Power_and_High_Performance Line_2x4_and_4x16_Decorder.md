@@ -282,7 +282,7 @@ comparison to traditional CMOS implementations.
 
 # Word of Thanks
 
-I sincerely Thanks Prof.Madhav Rao for Teaching and Helping me to complete this Project smoothly
+I sincerely Thanks to Prof.Madhav Rao for Teaching and Helping me to complete this Course smoothly
 
 # Reference
 
